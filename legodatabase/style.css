@@ -1,0 +1,18 @@
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(167, 167, 167);
+    color: black;
+    margin: 1em;
+}
+
+span {
+    padding: 0.5em;
+    margin-right: 1em;
+    background-color: rgb(20, 20, 20);
+    color: rgb(255, 255, 255);
+    display: inline-block;
+}
+
+label, input{
+    display: block;
+}

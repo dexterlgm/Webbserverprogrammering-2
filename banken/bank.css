@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(112, 176, 218);
+    padding: 0;
+    margin: 0;
+  }
+  main{
+    background-color: rgb(212, 223, 231);
+    width: 75%;
+    min-width: 500px;
+    margin: 0 auto;
+    border: 1px rgb(120, 120, 120) solid;
+    padding: 0px;
+  }
+  header, footer{
+    background: rgb(156, 192, 144);
+    height: 50px;
+    font-size: 24px;
+    color: #333;
+    padding: 20px;
+  }
+  h1, h2, p{
+    color: #333;
+  }
+  article{
+    margin: 0 auto;
+    text-align: center;
+  }
+  section{
+    padding: 15px;
+    border: 1px rgb(120, 120, 120) solid;
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+    width: 40%;
+    margin: 20px;
+  }

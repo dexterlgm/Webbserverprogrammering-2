@@ -1,0 +1,30 @@
+section { 
+    border: solid;
+    border-color: black;
+    background-color:#CAE7B9;
+    height: 140px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    background-color:#F3DE8A;
+}
+
+.namn {
+    text-decoration: underline;
+}
+
+h5 {
+    font-size: 17px;
+    max-width: 100px;
+}
+
+header {
+    font-size: 20px;
+    max-width: 400px;
+    background-color:#CAE7B9;
+}
+
